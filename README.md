@@ -26,3 +26,8 @@ Other effects – Use machine learning to identify outliers – various inflecti
 -	Random Forest – Day of week, Weekday/Weekend, Spring/Summer, weather
 -	Tableau - 
 
+#### Works Cited
+Machine Learning with Datetime Feature Engineering: Predicting Healthcare Appointment No-Shows
+- https://towardsdatascience.com/machine-learning-with-datetime-feature-engineering-predicting-healthcare-appointment-no-shows-5e4ca3a85f96
+Pandas Fiscal Year – Get Financial Year with Pandas
+- https://datagy.io/pandas-fiscal-year/
