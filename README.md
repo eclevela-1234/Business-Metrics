@@ -24,7 +24,8 @@ Other effects – Use machine learning to identify outliers – various inflecti
 -	Use remaining time to develop webpage deployment and Extras
 #### Possible models
 -	Random Forest – Day of week, Weekday/Weekend, Spring/Summer, weather
--	Tableau - 
+#### Tableau Public Link
+- https://public.tableau.com/app/profile/eliot.cleveland/viz/Final-Project_16301719319900/Dailysalesbylocation
 
 #### Works Cited
 Machine Learning with Datetime Feature Engineering: Predicting Healthcare Appointment No-Shows
