@@ -33,3 +33,6 @@ Machine Learning with Datetime Feature Engineering: Predicting Healthcare Appoin
 
 Pandas Fiscal Year – Get Financial Year with Pandas
 - https://datagy.io/pandas-fiscal-year/
+
+Feature Engineering — deep dive into Encoding and Binning techniques
+- https://towardsdatascience.com/feature-engineering-deep-dive-into-encoding-and-binning-techniques-5618d55a6b38
