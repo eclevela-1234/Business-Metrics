@@ -1,6 +1,9 @@
 # Final-Project
 A deeper dive into business analytics at UR Dining via machine learning
 
+### Link to page
+https://eclevela-1234.github.io/Final-Project/
+
 ### Draft Workflow
 Does Weather affect sales?
 
