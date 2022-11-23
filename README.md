@@ -2,7 +2,7 @@
 A deeper dive into business analytics at UR Dining via machine learning
 
 ### Link to page
-https://eclevela-1234.github.io/Final-Project/
+https://eclevela-1234.github.io/Business-Metrics/
 
 ### Draft Workflow
 Does Weather affect sales?
