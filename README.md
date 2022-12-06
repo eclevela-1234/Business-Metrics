@@ -1,4 +1,4 @@
-# Final-Project
+# Business Metrics
 A deeper dive into business analytics at UR Dining via machine learning
 
 ### Link to page
